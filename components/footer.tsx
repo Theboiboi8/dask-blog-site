@@ -17,12 +17,6 @@ const Footer = () => {
             >
               Find me on GitHub
             </a>
-            <a
-              href={`/#`}
-              className="mx-3 font-bold hover:underline"
-            >
-              Back to top<UilArrowUp />
-            </a>
           </div>
         </div>
       </Container>
