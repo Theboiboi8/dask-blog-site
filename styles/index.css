@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*
+a:hover {
+	color: #ed1c24;
+}
+*/
+
+::-moz-selection { /* Code for Firefox */
+	color: white;
+	background: #ed1c24;
+}
+
+::selection {
+	color: white;
+	background: #ed1c24;
+}
