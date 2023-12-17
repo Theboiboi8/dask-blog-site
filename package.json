@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@iconscout/react-unicons": "^2.0.2",
+    "@vercel/analytics": "^1.1.1",
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
