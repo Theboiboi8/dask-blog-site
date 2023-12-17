@@ -7,7 +7,6 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../interfaces/post'
-import { Analytics } from "@vercel/analytics/react";
 
 type Props = {
   allPosts: Post[]
@@ -18,7 +17,6 @@ export default function Index({ allPosts }: Props) {
   const morePosts = allPosts.slice(1)
   return (
     <>
-      <Analytics />
       <Layout>
         <Head>
           <title>{`Kamela`}</title>
