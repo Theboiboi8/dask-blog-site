@@ -4,6 +4,8 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 const Meta = () => {
   return (
     <Head>
+
+<sccript src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/"><;/script>
       <link
         rel="apple-touch-icon"
         sizes="1440x1440"
