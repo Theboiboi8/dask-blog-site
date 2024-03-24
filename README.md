@@ -1,1 +1,1 @@
-A simple blog site build with [`Next.js`](https://nextjs.org) and based on a simple blog template.
+A simple blog site build with [`Next.js`](https://nextjs.org).
