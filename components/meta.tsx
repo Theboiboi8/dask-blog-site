@@ -5,7 +5,7 @@ const Meta = () => {
   return (
     <Head>
 
-<sccript src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/"><;/script>
+<script src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/"></script>
       <link
         rel="apple-touch-icon"
         sizes="1440x1440"
