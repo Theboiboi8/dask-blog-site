@@ -11,13 +11,6 @@ const Layout = ({ preview, children }: Props) => {
   return (
     <>
       <Meta />
-<script type="text/javascript">
-      async function main(){
-        let pyodide = await loadPyodide();
-        console.log(pyodide.runPython("1 + 2"));
-      }
-      main();
-    </script>
       <div className="min-h-screen">
           {
              // <Alert preview={preview} />
